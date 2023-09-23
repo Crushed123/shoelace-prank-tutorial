@@ -7,4 +7,4 @@ Introduction <br>
 Anatomy of a shoe
 
 ### Introduction
-Tying shoes is often helpful with human survival, and it's an easy way to walk around looking <a href="https://www.dictionary.com/browse/fly" target="_blank">fly</a>
+Tying shoes is often helpful with human survival, and it's an easy way to walk around looking <a href="https://www.dictionary.com/browse/fly" target="_blank">fly</a>. However, you can turn these useful feet protectors into a weapon by tying the shoelaces to the other shoe.
