@@ -7,4 +7,4 @@ Introduction <br>
 Anatomy of a shoe
 
 ### Introduction
-Tying shoes is often helpful with human survival, and it's an easy way to walk around looking [fly](https://www.dictionary.com/browse/fly)
+Tying shoes is often helpful with human survival, and it's an easy way to walk around looking <a href="https://www.dictionary.com/browse/fly" target="_blank">fly</a>
