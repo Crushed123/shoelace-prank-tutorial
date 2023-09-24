@@ -6,6 +6,7 @@ Table of Contents:<br>
 <a href="#introduction">Introduction </a><br>
 <a href="#shoeanatomy">Anatomy of a shoe</a><br>
 <a href="#materials">Materials</a><br>
+<a href="#Instructions">Instructions</a><br>
 
 ### Introduction <div id="introduction">
 <img src="https://previews.123rf.com/images/catalin205/catalin2051412/catalin205141200057/34866841-shoe-laces-tied-together-prank-isolated-on-white-background.jpg" alt="A person wearing shoes with the shoe laces tied together" width="500" height="350">
@@ -18,6 +19,9 @@ Let's review what shoe looks like. A shoe can be defined as <a href="https://www
 ### Materials <div id="materials">
 - [2 shoes with laces on them](https://www.google.com/search?sca_esv=568052327&rlz=1C1GEWG_enUS990US990&sxsrf=AM9HkKlGUaiNrClPQnJJJB2CshMLba0pKA:1695592925886&q=shoes+with+laces&tbm=shop&source=lnms&sa=X&ved=2ahUKEwiPi5_wn8SBAxUwpokEHc8ZDG4Q0pQJegQIDBAB&biw=1920&bih=931&dpr=1)
 - [A friend who can wear shoes](https://youtu.be/ksbsm8FTJ3I?si=b6iwJTtre6vqMnqy)
-- <a href="https://docs.google.com/document/d/1Lit_9dn1z__gpBNaQ94SmHZpiwADMbA0wwZi2PmKhXk/edit?usp=sharing" target="_blank">Hands \(preferably 2)
+- <a href="https://docs.google.com/document/d/1Lit_9dn1z__gpBNaQ94SmHZpiwADMbA0wwZi2PmKhXk/edit?usp=sharing" target="_blank">Hands \(preferably 2)</a>
+- [Knowledge on how to tie shoes](https://www.wikihow.com/Tie-Your-Shoes)
 
-### Instructions
+### Instructions <div id="Instructions">
+1. Sneak up behind your shoe-wearing friend \(make sure your friend is wearing shoes and has no idea about this silly little prank of yours)
+2. Take take the right lace on their left shoe and tie it with the left on the right shoe
