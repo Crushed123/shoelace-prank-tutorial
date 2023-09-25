@@ -28,7 +28,8 @@ Let's review what shoe looks like. A shoe can be defined as <a href="https://www
 3. If you want extra reinforcement, tie the other shoelaces together too
 - **Be careful not to tie too hard or else your friend will notice that you are tying their shoes. They'll know you are doing something suspicious**
 4. Walk away from your friend as if nothing will happen
-5. Enjoy watching your friend attempt to walk, but trip and fall on their face
+5. 
+6. Enjoy watching your friend attempt to walk, but trip and fall on their face
 
 <br></br>
 <br></br>
