@@ -10,7 +10,7 @@ Table of Contents:<br>
 
 ### Introduction <div id="introduction">
 <img src="https://previews.123rf.com/images/catalin205/catalin2051412/catalin205141200057/34866841-shoe-laces-tied-together-prank-isolated-on-white-background.jpg" alt="A person wearing shoes with the shoe laces tied together" width="500" height="350">
-Tying shoes is often helpful with human survival, and it's an easy way to walk around looking <a href="https://www.dictionary.com/browse/fly" target="_blank">fly</a>. However, you can turn these useful feet protectors into a weapon by tying the shoelaces to the other shoe.
+Tying shoes is often helpful with human survival, and it's an easy way to walk around looking <a href="https://www.google.com/search?q=fly+slang+definition&sca_esv=568226998&rlz=1C1CHZN_enUS1071US1071&ei=DrYRZbSfErTCkPIPutq5-A0&oq=fly+sland+defi&gs_lp=Egxnd3Mtd2l6LXNlcnAiDmZseSBzbGFuZCBkZWZpKgIIADIHEAAYDRiABDIIEAAYBRgeGA0yChAAGAUYHhgNGA8yCBAAGAgYHhgNMggQABgIGB4YDTIIEAAYCBgeGA0yChAAGAgYHhgNGA8yChAAGAgYHhgNGA8yChAAGAgYHhgNGA8yCBAAGIoFGIYDSJcSUABY2AtwAHgAkAEAmAFooAGgCaoBBDEzLjG4AQPIAQD4AQHCAggQABiKBRiRAsICCBAuGIoFGJECwgIREC4YgAQYsQMYgwEYxwEY0QPCAgsQABiABBixAxiDAcICCxAAGIoFGLEDGIMBwgILEC4YigUYsQMYgwHCAgcQABiKBRhDwgINEC4YigUYxwEY0QMYQ8ICBRAAGIAEwgIIEAAYgAQYsQPCAgcQLhiKBRhDwgIKEAAYigUYsQMYQ8ICDRAAGIoFGLEDGIMBGEPCAgoQABiABBixAxgKwgIHEAAYgAQYCsICBhAAGBYYHsICCBAAGBYYHhgP4gMEGAAgQYgGAQ&sclient=gws-wiz-serp" target="_blank">fly</a>. However, you can turn these useful feet protectors into a weapon by tying the shoelaces to the other shoe.
 
 ### Anatomy of a shoe <div id="shoeanatomy">
 <img src="https://docs.google.com/drawings/d/e/2PACX-1vRyJBNkcZY4Tm2Xg5fWsPVbCXkR81ySH-uJstvo4fHt4k66MUibiFqkXAaY6orTYePlUTIH25gP9hE0/pub?w=548&h=496" alt="A very accurate diagram of a shoe">
