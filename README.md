@@ -1,4 +1,4 @@
-1How to Tie Two Shoes Together to Prank Your Friends (Without Harming Them)
+2How to Tie Two Shoes Together to Prank Your Friends (Without Harming Them)
 ====================
 This will be a tutorial on how to tie shoelaces of different shoes together so you can prank your friends.
 <br>
@@ -30,22 +30,15 @@ Let's review what shoe looks like. A shoe can be defined as <a href="https://www
   <li><a href="https://www.wikihow.com/Tie-Your-Shoes" target="_blank">Knowledge on how to tie shoes</a></li>
 </ul>
 
-<div id="Instructions"><h3>Instructions</h3></div>
+<div id="Instructions"><h3>Instructions</h3>
    <ol>
      <li>Sneak up behind your shoe-wearing friend \(make sure your friend is wearing shoes and has no idea about this silly little prank of yours)</li>
      <li>Take take the right lace on their left shoe and tie it with the left on the right shoe</li>
      <li>If you want extra reinforcement, tie the other shoelaces together too</li>
+     <li>Quickly place a mattress below your friend so that way they don't get hurt when they fall</li>
+     <li>Walk away and enjoy watching your friend trip and fall onto the mattress</li>
    </ol>
-
-1. Sneak up behind your shoe-wearing friend \(make sure your friend is wearing shoes and has no idea about this silly little prank of yours)
-2. Take take the right lace on their left shoe and tie it with the left on the right shoe
-3. If you want extra reinforcement, tie the other shoelaces together too
-- **Be careful not to tie too hard or else your friend will notice that you are tying their shoes. They'll know you are doing something suspicious**
-4. Walk away from your friend as if nothing will happen
-5. Quickly place a mattress below your friend so that way they dont' get hurt when they fall
-6. Enjoy watching your friend attempt to walk, but trip and fall on their face
-
-
+</div>
 <br>
 <br>
 
