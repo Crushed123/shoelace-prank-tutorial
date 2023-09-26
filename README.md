@@ -31,12 +31,16 @@ Let's review what shoe looks like. A shoe can be defined as <a href="https://www
 </ul>
 
 <div id="Instructions"><h3>Instructions</h3></div>
- 
+   <ol>
+     <li>Sneak up behind your shoe-wearing friend \(make sure your friend is wearing shoes and has no idea about this silly little prank of yours)</li>
+     <li>Take take the right lace on their left shoe and tie it with the left on the right shoe</li>
+     <li>If you want extra reinforcement, tie the other shoelaces together too</li>
+   </ol>
 
 1. Sneak up behind your shoe-wearing friend \(make sure your friend is wearing shoes and has no idea about this silly little prank of yours)
 2. Take take the right lace on their left shoe and tie it with the left on the right shoe
 3. If you want extra reinforcement, tie the other shoelaces together too
-- **Be careful not to tie too hard or else your friend will notice that you are tying their shoes. They'll know you are doing something suspicious**\
+- **Be careful not to tie too hard or else your friend will notice that you are tying their shoes. They'll know you are doing something suspicious**
 4. Walk away from your friend as if nothing will happen
 5. Quickly place a mattress below your friend so that way they dont' get hurt when they fall
 6. Enjoy watching your friend attempt to walk, but trip and fall on their face
