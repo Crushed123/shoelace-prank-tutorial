@@ -33,6 +33,7 @@ Let's review what shoe looks like. A shoe can be defined as <a href="https://www
 <div id="Instructions">
   <h3>Instructions</h3>
 
+
 1. Sneak up behind your shoe-wearing friend \(make sure your friend is wearing shoes and has no idea about this silly little prank of yours)
 2. Take take the right lace on their left shoe and tie it with the left on the right shoe
 3. If you want extra reinforcement, tie the other shoelaces together too
@@ -43,10 +44,11 @@ Let's review what shoe looks like. A shoe can be defined as <a href="https://www
 5. Quickly place a mattress below your friend so that way they dont' get hurt when they fall
 6. Enjoy watching your friend attempt to walk, but trip and fall on their face
 
+
 <br>
 <br>
 
-=========
+
 *Please note that I am not responsible for any injuries caused by this silly little prank. By doing the actions instructed, you acknowledge the consequences of your actions and that I am not responsible for them. These consequences can include injury, potential lawsuit, and a loss of friendship* **DONT TRY THIS AT HOME**
 
 *This website has No Rights Reserved*
