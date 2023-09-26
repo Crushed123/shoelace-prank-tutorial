@@ -23,18 +23,22 @@ Let's review what shoe looks like. A shoe can be defined as <a href="https://www
 
 <div id="materials"></div>
 <h3>Materials</h3>
-
-- [2 shoes with laces on them](https://www.google.com/search?sca_esv=568052327&rlz=1C1GEWG_enUS990US990&sxsrf=AM9HkKlGUaiNrClPQnJJJB2CshMLba0pKA:1695592925886&q=shoes+with+laces&tbm=shop&source=lnms&sa=X&ved=2ahUKEwiPi5_wn8SBAxUwpokEHc8ZDG4Q0pQJegQIDBAB&biw=1920&bih=931&dpr=1)
-- [A friend who can wear shoes](https://youtu.be/ksbsm8FTJ3I?si=b6iwJTtre6vqMnqy)
-- <a href="https://docs.google.com/document/d/1Lit_9dn1z__gpBNaQ94SmHZpiwADMbA0wwZi2PmKhXk/edit?usp=sharing" target="_blank">Hands \(preferably 2)</a>
-- [Knowledge on how to tie shoes](https://www.wikihow.com/Tie-Your-Shoes)
+<ul>
+  <li><a href="https://www.google.com/search?sca_esv=568052327&rlz=1C1GEWG_enUS990US990&sxsrf=AM9HkKlGUaiNrClPQnJJJB2CshMLba0pKA:1695592925886&q=shoes+with+laces&tbm=shop&source=lnms&sa=X&ved=2ahUKEwiPi5_wn8SBAxUwpokEHc8ZDG4Q0pQJegQIDBAB&biw=1920&bih=931&dpr=1" target="_blank">2 shoes with laces on them</a></li>
+  <li><a href="https://youtu.be/ksbsm8FTJ3I?si=b6iwJTtre6vqMnqy" target="_blank">A friend who can wear shoes</a></li>
+  <li><a href="https://docs.google.com/document/d/1Lit_9dn1z__gpBNaQ94SmHZpiwADMbA0wwZi2PmKhXk/edit?usp=sharing" target="_blank">Hands (preferably 2)</a></li>
+  <li><a href="https://www.wikihow.com/Tie-Your-Shoes" target="_blank">Knowledge on how to tie shoes</a></li>
+</ul>
 
 <div id="Instructions">
   <h3>Instructions</h3>
+
 1. Sneak up behind your shoe-wearing friend \(make sure your friend is wearing shoes and has no idea about this silly little prank of yours)
 2. Take take the right lace on their left shoe and tie it with the left on the right shoe
 3. If you want extra reinforcement, tie the other shoelaces together too
+
 - **Be careful not to tie too hard or else your friend will notice that you are tying their shoes. They'll know you are doing something suspicious**
+
 4. Walk away from your friend as if nothing will happen
 5. Quickly place a mattress below your friend so that way they dont' get hurt when they fall
 6. Enjoy watching your friend attempt to walk, but trip and fall on their face
@@ -42,6 +46,7 @@ Let's review what shoe looks like. A shoe can be defined as <a href="https://www
 <br>
 <br>
 
+=========
 *Please note that I am not responsible for any injuries caused by this silly little prank. By doing the actions instructed, you acknowledge the consequences of your actions and that I am not responsible for them. These consequences can include injury, potential lawsuit, and a loss of friendship* **DONT TRY THIS AT HOME**
 
 *This website has No Rights Reserved*
