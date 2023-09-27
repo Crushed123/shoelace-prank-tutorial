@@ -36,7 +36,7 @@ Table of Contents:
 
 <div id="Instructions"><h3>Instructions</h3>
    <ol>
-     <li>Sneak up behind your shoe-wearing friend \(make sure your friend is wearing shoes and has no idea about this silly little prank of yours)</li>
+     <li>Sneak up behind your shoe-wearing friend (make sure your friend is wearing shoes and has no idea about this silly little prank of yours)</li>
      <li>Take take the right lace on their left shoe and tie it with the left on the right shoe</li>
      <li>If you want extra reinforcement, tie the other shoelaces together too</li>
      <li>Quickly place a mattress below your friend so that way they don't get hurt when they fall</li>
