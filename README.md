@@ -28,7 +28,7 @@ Table of Contents:
   <h3>Materials</h3>
     <ul>
       <li><a href="https://www.google.com/search?sca_esv=568052327&rlz=1C1GEWG_enUS990US990&sxsrf=AM9HkKlGUaiNrClPQnJJJB2CshMLba0pKA:1695592925886&q=shoes+with+laces&tbm=shop&source=lnms&sa=X&ved=2ahUKEwiPi5_wn8SBAxUwpokEHc8ZDG4Q0pQJegQIDBAB&biw=1920&bih=931&dpr=1" target="_blank">2 shoes with laces on them</a></li>
-      <li><a href="https://youtu.be/ksbsm8FTJ3I?si=b6iwJTtre6vqMnqy" target="_blank">A friend who can wear shoes</a></li>
+      <li><a href="https://youtu.be/I9hJ_Rux9y0?si=VsgjGfwxZldMjV7A" target="_blank">A friend who can wear shoes</a></li>
       <li><a href="https://docs.google.com/document/d/1Lit_9dn1z__gpBNaQ94SmHZpiwADMbA0wwZi2PmKhXk/edit?usp=sharing" target="_blank">Hands (preferably 2)</a></li>
       <li><a href="https://www.wikihow.com/Tie-Your-Shoes" target="_blank">Knowledge on how to tie shoes</a></li>
     </ul>
