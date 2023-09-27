@@ -47,6 +47,8 @@ Table of Contents:
 <br>
 
 
+
+#
 *Please note that I am not responsible for any injuries caused by this silly little prank. By doing the actions instructed, you acknowledge the consequences of your actions and that I am not responsible for them. These consequences can include injury, potential lawsuit, and a loss of friendship* **DONT TRY THIS AT HOME**
 
 *This website has No Rights Reserved*
