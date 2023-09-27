@@ -1,9 +1,9 @@
-5How to Tie Two Shoes Together to Prank Your Friends (Without Harming Them)
+How to Tie Two Shoes Together to Prank Your Friends (Without Harming Them)
 ====================
 This will be a tutorial on how to tie shoelaces of different shoes together so you can prank your friends.
-<br>
+
+
 Table of Contents:
-<br>
 <a href="#introduction">Introduction </a><br>
 <a href="#shoeanatomy">Anatomy of a shoe</a><br>
 <a href="#materials">Materials</a><br>
