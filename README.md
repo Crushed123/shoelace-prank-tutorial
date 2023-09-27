@@ -4,6 +4,7 @@ This will be a tutorial on how to tie shoelaces of different shoes together so y
 
 
 Table of Contents:
+<br>
 <a href="#introduction">Introduction </a><br>
 <a href="#shoeanatomy">Anatomy of a shoe</a><br>
 <a href="#materials">Materials</a><br>
